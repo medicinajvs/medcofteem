@@ -1,9 +1,9 @@
 {
-  "name": "medcofrmaiscm",
+  "name": "medcofteem",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://medicinajvs.github.io/medcofrmaiscm/",
+  "homepage": "https://medicinajvs.github.io/medcofteem/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
