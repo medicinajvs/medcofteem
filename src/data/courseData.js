@@ -382,7 +382,7 @@ export const courseData = [
         title: "Doença de Graves",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Doença de Graves", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1FUefRxg6sSs-POrlf8h7o2awdeWlw1FK/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Doença de Graves", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1HyxrpvKGJBtDmouBKMVP0hXNgDcljz51/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Doença de Graves", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1E235KKbfpIqyASKehQK9oKqVEPCyKg3v/view?usp=sharing" }
         ],
         materials: [
@@ -597,7 +597,7 @@ export const courseData = [
         title: "Fisiologia e Biologia do Tecido Adiposo",
         imageUrl: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Fisiologia e Biologia do Tecido Adiposo", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1LXwWjmxtuKr3fudCJuZEkEXvGLMYsLFA/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Fisiologia e Biologia do Tecido Adiposo", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1KUOTZoC2lTPUIawZbM2RPcAbIBeJH7ov/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Fisiologia e Biologia do Tecido Adiposo", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1FZC1Y1fDa10xMljDwP61OpxfMVMUbfet/view?usp=sharing" }
         ],
         materials: [
@@ -801,7 +801,7 @@ export const courseData = [
         title: "Fisiologia Adrenal e Esteroidogênese",
         imageUrl: "https://images.unsplash.com/photo-1580256081112-e49377338b7f?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Fisiologia Adrenal e Esteroidogênese", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Co0AIeVnKvkdLtZx_wB9IvWaWoHDZy1_/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Fisiologia Adrenal e Esteroidogênese", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1dwRU2j1g_U7jbljyU8fwUkYKr5iYt9oJ/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Fisiologia Adrenal e Esteroidogênese", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1uto8vEEivc3qL_J2ZotzP-CvEd5mrYj5/view?usp=sharing" }
         ],
         materials: [
@@ -827,8 +827,8 @@ export const courseData = [
         title: "Incidentaloma Adrenal",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Incidentaloma Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15HKqWUBH6tAb9pI24adApfvG8HFCk_pY/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Incidentaloma Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VUZlHyB_34MpJMEO4uI4pzP559JNu8ar/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Incidentaloma Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1w6u9-_zU4OjxADCT98I9uiGuwUaGuW6P/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Incidentaloma Adrenal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1XH_Xk4VmWBvmh6b_dvXWclGnXlJGjv24/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Incidentaloma Adrenal", pdfLink: "https://drive.google.com/file/d/1aLcMArEiK5xZLEyFMdLzV531RPI8pXif/view?usp=sharing" }
@@ -841,7 +841,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Hiperaldosteronismo Primário", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Gl4ipVp2ATFXMnIrKSEf7bJOKNCSTehF/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Hiperaldosteronismo Primário", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1dZdZLrwaL6Xxwtn_NaJ544tVLquOp2mU/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Hiperaldosteronismo Primário", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1WnPpv824Fb5CPwUD9yaTyyOnKl1Wy8Ta/view?usp=drive_link" }
         ],
         materials: [
            { title: "PDF de Slides - Hiperaldosteronismo Primário", pdfLink: "https://drive.google.com/file/d/1ueHo75V8qyLWZ9cSXjdJtehTAYo3knws/view?usp=sharing" }
@@ -853,8 +853,8 @@ export const courseData = [
         title: "Feocromocitoma: Parte I - Clínica, Diagnóstico, Tratamento",
         imageUrl: "https://images.unsplash.com/photo-1584362917165-52e812f8dc08?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Feocromocitoma: Parte I - Clínica, Diagnóstico, Tratamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1FKsinGq_mRuB90wuYgN4TPwM5CGo4buy/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Feocromocitoma - Parte I: Clínica, Diagnóstico, Tratamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ReyV_X3t3mNZeXk0HjBik_uY6QfN6sSU/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Feocromocitoma: Parte I - Clínica, Diagnóstico, Tratamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1nMDaDm5gF6unzTKutjCSREsKbjD-uLbR/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Feocromocitoma - Parte I: Clínica, Diagnóstico, Tratamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1XAQoXtDpQHWkq40rFYOfDvb4B40YWIP6/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Feocromocitoma: Parte I - Clínica, Diagnóstico, Tratamento", pdfLink: "https://drive.google.com/file/d/1rnnGuH37Q6-fWv4jNKhwEsFD0B1ieykj/view?usp=sharing" }
@@ -866,7 +866,7 @@ export const courseData = [
         title: "Feocromocitoma: Parte II - Genética",
         imageUrl: "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Feocromocitoma: Parte II - Genética", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vNh06GMyh5a6QhhZIxOWVH_7SDVYEPdH/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Feocromocitoma: Parte II - Genética", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1TjcV8HgQcKmm5LJvzuurr9AEpobsVQxN/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Feocromocitoma - Parte II: Genética", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-l4ZFBSFsXygPLRzkJzYcnK1E3RZFo1E/view?usp=sharing" }
         ],
         materials: [
@@ -905,7 +905,7 @@ export const courseData = [
         title: "Bônus: Atualização em Tratamento para HAC",
         imageUrl: "https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&q=80&w=400",
         lessons: [
-           { id: 1, title: "Aula 01 - Bônus: Atualização em Tratamento para HAC", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/19CmAm0sCo7Pul6PwTLVAfc4ctzncxbYa/view?usp=sharing" }
+           { id: 1, title: "Aula 01 - Bônus: Atualização em Tratamento para HAC", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1X8AnPZ3FmVM6jvzZ1EdbCRIO-mAS0BAb/view?usp=drive_link" }
         ],
         materials: [
            { title: "PDF de Slides - Bônus: Atualização em Tratamento para HAC", pdfLink: "https://drive.google.com/file/d/16nQhBfeY41uTDLSOTPeeXrasdNzaFt_7/view?usp=sharing" }
@@ -1029,7 +1029,7 @@ export const courseData = [
         title: "Dislipidemia na Gestação",
         imageUrl: "https://images.unsplash.com/photo-1564030730048-9f3729e92592?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Dislipidemia na Gestação", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1N-d1E9TRP7kX1ouM2JkE0n5n6vY5xMrd/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Dislipidemia na Gestação", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1bYQYIc6VKxGAR-kAnP-fWnhW5qYtBhjA/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Dislipidemia na Gestação", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1KjGqbAOiNVyo6dFvahoQPYVGL4N7_1IS/view?usp=sharing" }
         ],
         materials: [
@@ -1201,7 +1201,7 @@ export const courseData = [
         title: "Fisiologia e Tumorigênese em Neuroendocrinologia",
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Fisiologia e Tumorigênese em Neuroendocrinologia", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wHXM690U_7XlVYHw7Pj9c28CBy9DFA9y/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Fisiologia e Tumorigênese em Neuroendocrinologia", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ZgBite5vys8LHl5AwtPo5A0vh2_w08Nl/view?usp=drive_link" },
           { id: 2, title: "Aula 02 - CofExpress: Fisiologia e Tumorigênese em Neuroendocrinologia", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wKyU5KWJnbWz38h5qKc2Z4GG-h7OG1EL/view?usp=sharing" }
         ],
         materials: [
@@ -1267,7 +1267,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Incidentaloma Hipofisário, Adenoma Clinicamente Não-Funcionante e Tumores Agressivos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Fd0IAv0q4-DlAtrGF8jHzuOwiiZB1H-G/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Incidentaloma Hipofisário, Adenoma Clinicamente Não-Funcionante e Tumores Agressivos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Kdlg_k9b5I-xR9BmAywRHKfC7_Micp3g/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Incidentaloma Hipofisário, Adenoma Clinicamente Não-Funcionante e Tumores Agressivos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1AWOs1Qi9rTf1HZjBuh6fdGb9kySZtQdd/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de Slides - Incidentaloma Hipofisário, Adenoma Clinicamente Não-Funcionante e Tumores Agressivos", pdfLink: "https://drive.google.com/file/d/1zTiIV0b720iv90H39Qy6KOGft0q47VgL/view?usp=sharing" }
