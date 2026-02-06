@@ -72,7 +72,7 @@ const SidebarContent = ({
         <div className="animate-in fade-in slide-in-from-right-4 duration-500">
           <div className="flex items-center justify-between mb-4 px-2">
              <div className="h-1 flex-1 bg-gradient-to-r from-purple-600/50 to-transparent rounded-full mr-4"></div>
-             <span className="text-xs font-bold text-purple-400 uppercase tracking-widest">Aulas</span>
+             <span className="text-xs font-bold text-purple-400 uppercase tracking-widest">Sub-Módulos</span>
              <div className="h-1 flex-1 bg-gradient-to-l from-purple-600/50 to-transparent rounded-full ml-4"></div>
           </div>
           <CarouselSection 
