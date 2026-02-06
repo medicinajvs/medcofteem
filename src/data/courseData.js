@@ -461,7 +461,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Hipotireoidismo Subclínico e Coma Mixedematoso", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rZec0FDQrxXBn9EIbX16piYoQHVKEnie/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Hipotireoidismo Subclínico e Coma Mixedematoso", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1zjpx71YXy9yY4g-W2pUPRALFC6E8_bdt/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Hipotireoidismo Subclínico e Coma Mixedematoso", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1w6WyaglX_zbng_dDQd_mFGTTRqRryPvn/view?usp=drive_link" }
         ],
         materials: [
            { title: "PDF de Slides - Hipotireoidismo Subclínico e Coma Mixedematoso", pdfLink: "https://drive.google.com/file/d/1AOT8Iqt9GuIsntGPB3rmV4rFtbNncNXI/view?usp=sharing" }
@@ -512,8 +512,8 @@ export const courseData = [
         title: "Nódulo de Tireoide: Parte I - Avaliação Inicial, PAAF",
         imageUrl: "https://images.unsplash.com/photo-1584362917165-52e812f8dc08?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Nódulo de Tireoide: Parte I - Avaliação Inicial, PAAF", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/10CdTCSwUiifGjSvrpVUZcRyEKsq6Y8q3/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Nódulo de Tireoide - Parte I: Avaliação Inicial, PAAF", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1T0YJ3kFYMv1l1XubaQ3DrGd5SyFGGz3G/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Nódulo de Tireoide: Parte I - Avaliação Inicial, PAAF", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wVnxpMpw_qPRVKr9v3Gk8TGHWOb6QrnZ/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Nódulo de Tireoide - Parte I: Avaliação Inicial, PAAF", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1eiVZYq9zZ8JHeFoR96PhxVmO7Fume_0J/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Nódulo de Tireoide: Parte I - Avaliação Inicial, PAAF", pdfLink: "https://drive.google.com/file/d/1lp3q6RB-Y8p4jvw9LE8t24Ccpf54jrHD/view?usp=sharing" }
@@ -525,7 +525,7 @@ export const courseData = [
         title: "Nódulo de Tireoide: Parte II - Citologia, Teste Molecular, Manejo de Nódulos Benignos",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Nódulo de Tireoide: Parte II - Citologia, Teste Molecular, Manejo de Nódulos Benignos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12BJ2iEOpLYhGFBfRhuW4_OaS33T1Yuwu/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Nódulo de Tireoide: Parte II - Citologia, Teste Molecular, Manejo de Nódulos Benignos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1hX1OrLLq8CEzWlOWkEAcEOp9KuLa50IQ/view?usp=drive_link" }
         ],
         materials: [
            { title: "PDF de Slides - Nódulo de Tireoide: Parte II - Citologia, Teste Molecular, Manejo de Nódulos Benignos", pdfLink: "https://drive.google.com/file/d/1lWRDaPXBOc4nPFPh-KD2X39eXv3jmu3m/view?usp=sharing" }
@@ -537,8 +537,8 @@ export const courseData = [
         title: "Câncer Diferenciado de Tireoide: Parte I - Introdução, Patogênese, Subtipos, Tratamento, Estadiamento",
         imageUrl: "https://images.unsplash.com/photo-1516574187841-693018954312?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Câncer Diferenciado de Tireoide: Parte I - Introdução, Patogênese, Subtipos, Tratamento, Estadiamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1qI0RkzuRdk3EYWIuFelQ_-KER-hjlHaR/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Câncer Diferenciado de Tireoide - Parte I: Introdução, Patogênese, Subtipos, Tratamento, Estadiamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15I1V7hbeBKsrSspdbkPvxhPN2gXA_Hxc/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Câncer Diferenciado de Tireoide: Parte I - Introdução, Patogênese, Subtipos, Tratamento, Estadiamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1eebTZ2BSgpo-tefyefMHUdtlB3_oP6qe/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Câncer Diferenciado de Tireoide - Parte I: Introdução, Patogênese, Subtipos, Tratamento, Estadiamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1BNIZDZp9Eq4iPCslQL5smi1trNSlxB27/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Câncer Diferenciado de Tireoide: Parte I - Introdução, Patogênese, Subtipos, Tratamento, Estadiamento", pdfLink: "https://drive.google.com/file/d/1S5lAPJ0O9CWhDp-YLXlVx9ZIqruExNVR/view?usp=sharing" }
@@ -550,8 +550,8 @@ export const courseData = [
         title: "Câncer Diferenciado de Tireoide: Parte II - Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada",
         imageUrl: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Câncer Diferenciado de Tireoide: Parte II - Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1m_9xvox2VK1XQ3zpXH7wHRnwT5CJd4qx/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Câncer Diferenciado de Tireoide - Parte II: Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/13t0tWNAFZJBM2xZ5dpx3saVXAzUm09Kq/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Câncer Diferenciado de Tireoide: Parte II - Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1L4nBsb7i6CUFZyvGm2FoYlWT3bIV_r8S/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Câncer Diferenciado de Tireoide - Parte II: Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1_68ZFsoB1vOjEGDIHNi8CD9KndHlRTb4/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Câncer Diferenciado de Tireoide: Parte II - Radioiodoterapia, Seguimento e Estratificação Dinâmica, Doença Avançada", pdfLink: "https://drive.google.com/file/d/11cE7VSXYemTawm9auwMSXbzTOl-blfvE/view?usp=sharing" }
@@ -563,8 +563,8 @@ export const courseData = [
         title: "Câncer Anaplásico de Tireoide",
         imageUrl: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Câncer Anaplásico de Tireoide", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1bfToFd1nL-6Q-w9oiaoCVolvx5g_UxQf/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Câncer Anaplásico de Tireoide", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1K8l_fT-j0TrTYCd0NhnSyPOpAztNNdbC/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Câncer Anaplásico de Tireoide", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1BWj2hKDSNHKleOklcUBbQ3qKaNABdJf4/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Câncer Anaplásico de Tireoide", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1g2IkPgv8e1dSNi2qpYKPByPhmWqxf1Ov/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Câncer Anaplásico de Tireoide", pdfLink: "https://drive.google.com/file/d/1y0_JUBT_8wsVeSIKush62ffzk_k3IVKy/view?usp=sharing" }
@@ -688,8 +688,8 @@ export const courseData = [
         title: "Cirurgia Bariátrica I: Indicações, Contraindicações e Benefícios",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Cirurgia Bariátrica I: Indicações, Contraindicações e Benefícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1glTinw9I1JJPvvIrzOQr5Puk8qPw_B0b/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Cirurgia Bariátrica I - Indicações, Contraindicações e Benefícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1cQbGNNb140JchGRa7HvHCB-DlVwdSvtT/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Cirurgia Bariátrica I: Indicações, Contraindicações e Benefícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1QWJykKWI5jpVB7QE_6T1IA_ci0q4Omo6/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Cirurgia Bariátrica I - Indicações, Contraindicações e Benefícios", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1IwUit5Mi8i-4-AoZreQAumY2_dkAHDqx/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Cirurgia Bariátrica I: Indicações, Contraindicações e Benefícios", pdfLink: "https://drive.google.com/file/d/1rcIf8MfPFlFtTEiirwmJrJLY39q_UX_d/view?usp=sharing" }
@@ -701,8 +701,8 @@ export const courseData = [
         title: "Cirurgia Bariátrica II: Técnicas e Complicações",
         imageUrl: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Cirurgia Bariátrica II: Técnicas e Complicações", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1baF-zh18MIZ1xAf_Lpd9eJH7kETbIqcT/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Cirurgia Bariátrica II - Técnicas e Complicações", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1c7hOqBpso-5usXsFJmM1lyBthrELpyjk/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Cirurgia Bariátrica II: Técnicas e Complicações", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1DA28y9wHqkkYUNto4sjY6rzg09StQQTK/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Cirurgia Bariátrica II - Técnicas e Complicações", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1drBn0IiFJwnuVAWmtDiOBOYqw5miGSun/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Cirurgia Bariátrica II: Técnicas e Complicações", pdfLink: "https://drive.google.com/file/d/1-lPEuMxyhUYkoQHgOcrW5LJHsB6YOUy_/view?usp=sharing" }
@@ -714,8 +714,8 @@ export const courseData = [
         title: "Obesidade e Comorbidades: Parte I - Pulmão, Fígado, Câncer",
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Obesidade e Comorbidades: Parte I - Pulmão, Fígado, Câncer", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Rfv0jDyFCYT4K_Tqxa9sOImIsv90S3iL/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Obesidade e Comorbidades - Parte I: Pulmão, Fígado, Câncer", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1MMT3Hdd02PVbR36iY9hgcqeHnjUrI3a6/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Obesidade e Comorbidades: Parte I - Pulmão, Fígado, Câncer", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1JYF6A7-NTybL3qeqBgzfeBzHDX55hZtP/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Obesidade e Comorbidades - Parte I: Pulmão, Fígado, Câncer", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Nere8A2kPcvXgXLymcVLbEfk5rNtes61/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Obesidade e Comorbidades: Parte I - Pulmão, Fígado, Câncer", pdfLink: "https://drive.google.com/file/d/1vzJpinbAXb3Mw0H4bS-N07urxoq9hGyw/view?usp=sharing" }
@@ -727,8 +727,8 @@ export const courseData = [
         title: "Obesidade e Comorbidades II: Síndrome Metabólica, Coração e Rim",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-           { id: 1, title: "Aula 01 - Obesidade e Comorbidades II: Síndrome Metabólica, Coração e Rim", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vboi1IuqXZC8w4QuW26f3_rExMOYgv1h/view?usp=sharing" },
-           { id: 2, title: "Aula 02 - CofExpress: Obesidade e Comorbidades II - Síndrome Metabólica, Coração e Rim", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ilxaAX1jZkp6jMauVX80mknP3Hi9mU4u/view?usp=sharing" }
+           { id: 1, title: "Aula 01 - Obesidade e Comorbidades II: Síndrome Metabólica, Coração e Rim", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1_Awik4OkbAMhd3ZPcUPnPrvdKIe4Rdjd/view?usp=sharing" },
+           { id: 2, title: "Aula 02 - CofExpress: Obesidade e Comorbidades II - Síndrome Metabólica, Coração e Rim", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1gj1VIt3FDq4aji7RnWpUEuwV_gE6F5fy/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Obesidade e Comorbidades II: Síndrome Metabólica, Coração e Rim", pdfLink: "https://drive.google.com/file/d/1ZjF5qME194qtN-mE82_HxyyqrkO-xoZ7/view?usp=sharing" }
@@ -740,8 +740,8 @@ export const courseData = [
         title: "Obesidade e Metabolismo: Resistência Insulínica, DLP, DM, SOP",
         imageUrl: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Obesidade e Metabolismo: Resistência Insulínica, DLP, DM, SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Bfo2XwtrpPDJVDuksK0gWBt0ybunFPiq/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Obesidade e Metabolismo - Resistência Insulínica, DLP, DM, SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ORo1MDu6FVqv4iUeaN1cQczCXkWtvvNF/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Obesidade e Metabolismo: Resistência Insulínica, DLP, DM, SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1JWhiqQiAr9yLMGQg9Nvx1lsyU9vbf7cF/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Obesidade e Metabolismo - Resistência Insulínica, DLP, DM, SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1umVhIL9zA48P-CF6XRuhCuN3xo4ZEe5P/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Obesidade e Metabolismo: Resistência Insulínica, DLP, DM, SOP", pdfLink: "https://drive.google.com/file/d/1pBhPc79V8xQt9aRvmJxhpWiEmSCJnGTl/view?usp=sharing" }
@@ -753,9 +753,8 @@ export const courseData = [
         title: "Microbiota Intestinal",
         imageUrl: "https://images.unsplash.com/photo-1516574187841-693018954312?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Microbiota Intestinal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VuF8oMjIUTUJ5Ld3oJECk7-nszYvwEdG/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - Microbiota Intestinal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-9BsWCLpBAVDzJ1gTIkRIWe47csZ4qle/view?usp=sharing" },
-          { id: 3, title: "Aula 02 - CofExpress: Microbiota Intestinal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1WoHpH3TfRJldN4ka-lLKlbG-0NZ5-_1L/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Microbiota Intestinal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-9BsWCLpBAVDzJ1gTIkRIWe47csZ4qle/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Microbiota Intestinal", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1fQAplnpEFVz5Cr3iQPzAg3tU04x_dSfi/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Microbiota Intestinal", pdfLink: "https://drive.google.com/file/d/1H4qoOD2_WcxonLnsvygIp2pOxZHqJ41W/view?usp=sharing" }
@@ -767,10 +766,8 @@ export const courseData = [
         title: "Obesidade e Eixos Endócrinos",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/11adefiI-YgTksMLwLINAgLL5rxga5Inj/view?usp=sharing" },
-          { id: 2, title: "Aula 01 - CofExpress- Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15vryStH6t5EczweztD1AlM7FRJZloYBv/view?usp=sharing" },
-          { id: 3, title: "Aula 02 - CofExpress: Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1J4CMShUfb18fzMI-0h9TPeRGlOOs-R_k/view?usp=sharing" },
-          { id: 4, title: "Cópia de Aula 02 - Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ViSOq8Exal5FywPVVY5KTR4YQi5ADp2B/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1csJkxxFr7IQ4QXwbERXE9GjGuLTrIFQp/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Obesidade e Eixos Endócrinos", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15vryStH6t5EczweztD1AlM7FRJZloYBv/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Obesidade e Eixos Endócrinos", pdfLink: "https://drive.google.com/file/d/1HCYr1ol_12_Xj2_bUkXhHJZMzBFlLU6x/view?usp=sharing" }
@@ -782,8 +779,8 @@ export const courseData = [
         title: "Obesidade Hipotalâmica e Pseudotumor Cerebral",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Obesidade Hipotalâmica e Pseudotumor Cerebral", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1BcPAn1ce0l8vEnFHki7JqPZhFnpVOAWx/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Obesidade Hipotalâmica e Pseudotumor Cerebral", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/14N178VTxmzoQ7bK4UQeWcsy5sZcfvjv0/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Obesidade Hipotalâmica e Pseudotumor Cerebral", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Km0xsCoDhN6hAU6dhmJq-3Jieud9x2pI/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Obesidade Hipotalâmica e Pseudotumor Cerebral", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ychtc1MFiPm7BCBDDFgs8_5Cky3LpJgN/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Obesidade Hipotalâmica e Pseudotumor Cerebral", pdfLink: "https://drive.google.com/file/d/1nQJrG0t9zFxC3-r87TdZR8Czn7rjQbL4/view?usp=sharing" }
@@ -1092,8 +1089,8 @@ export const courseData = [
         title: "Síndromes Hiperandrogênicas e SOP",
         imageUrl: "https://images.unsplash.com/photo-1596708761278-6ef8f2c3b216?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Síndromes Hiperandrogênicas e SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Wpr5LjVTVDnn95zo3SdoC4zEXbJwxWeN/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Síndromes Hiperandrogênicas e SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vHvv9eyMCm-0IG_bdJTOLPHNBQiadQ88/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Síndromes Hiperandrogênicas e SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vL_3-zR6aOK7DMQxnsV9eY2Y4lYf9KDD/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Síndromes Hiperandrogênicas e SOP", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/13nG6qRh5im602E7vc0ojYIfRUYXcuzPY/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de Slides - Síndromes Hiperandrogênicas e SOP", pdfLink: "https://drive.google.com/file/d/13x53roaIl6BhhF_RPZQOR4sRhFd1jebO/view?usp=sharing" }
@@ -1131,7 +1128,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1544367563-12123d832d61?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Menopausa e TRH: Parte II - IOP, Terapias Não-Hormonais na Menopausa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Xt0asMsYSs0zzbAi9T8Am4WoIupdPK03/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Menopausa e TRH - Parte II: IOP, Terapias Não-Hormonais na Menopausa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1BtBwnpJo_Vutk6-sAKPRRi3JB-0Gg5tW/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Menopausa e TRH - Parte II: IOP, Terapias Não-Hormonais na Menopausa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1r8ZpvejZEa1GEbtJqL-isxa_R4_7mVin/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de Slides - Menopausa e TRH: Parte II - IOP, Terapias Não-Hormonais na Menopausa", pdfLink: "https://drive.google.com/file/d/15wfYs818ns3BdSU-YXnQDxDjV-3JLWsY/view?usp=sharing" }
@@ -1169,8 +1166,8 @@ export const courseData = [
         title: "Transgênero",
         imageUrl: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Transgênero", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15wh02uuhmOcdTCUFVns8Ty5xarUW0K3t/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Transgênero", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1eTEFB0ZVyrny9m_ltRFbNuK6OvVkyMfj/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Transgênero", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1MebL3a7hc-OdLpsC-BxVqzFxMWX72GIp/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Transgênero", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1p5mW0k9dwDbGjv-6MLI8aYDl1b-ZiaKf/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Transgênero", pdfLink: "https://drive.google.com/file/d/1Dnrkz0XIozttyXPLRrwoQXCY72aCBk5T/view?usp=sharing" }
@@ -1182,8 +1179,8 @@ export const courseData = [
         title: "Lipedema",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Lipedema", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1pdnm-Umvw3wR61F7hcOp96G87hvDHm3-/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Lipedema", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/178eBw9m_PGRknMYB2vBvdqJ1gJjFISYZ/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Lipedema", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Vw1-zJgYYL76orEdBLEDVV2pVau34vXc/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Lipedema", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1cphaj6ikwCFv2inZTPmvWsT1YdYDjFD_/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Lipedema", pdfLink: "https://drive.google.com/file/d/1xv_GmSr67aV8BuxWc8AwQfixhhU4F7EO/view?usp=sharing" }
@@ -1787,7 +1784,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1584362917165-52e812f8dc08?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Uso Abusivo de Anabolizantes e Gestrinona", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1M_vdic_wq4Z99UDfqWfvfK5vlRSnLLs_/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Uso Abusivo de Anabolizantes e Gestrinona", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1M2o51NnVBOFblkV3D8kuZvjSmZ8p9Qag/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Uso Abusivo de Anabolizantes e Gestrinona", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rT-3eYyYdx58k7z37A2yicktEJG_-ZZD/view?usp=sharing" }
         ],
         materials: [
            { title: "PDF de Slides - Uso Abusivo de Anabolizantes e Gestrinona", pdfLink: "https://drive.google.com/file/d/16sOLCG41ebS4OBH2Mo6bThgArWYMcHdD/view?usp=sharing" }
